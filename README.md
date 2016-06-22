@@ -1,8 +1,4 @@
-# Demo server code for MP4
-You should be able to do
-`npm install` and `nodemon server.js`
+#FoodBook
+Foodbook is a NodeJS web application that serves as a platform for people to host or join community food events. Simply sign up and start creating or RSVPing to food events!
 
-Nodemon does auto-reloading the same way grunt does on the frontend.
-
-You might have to install nodemon on the vagrant machine using
-`npm install -g nodemon`
+_See https://github.com/matthewly/FoodBook-Client_
